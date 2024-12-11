@@ -1,1 +1,3 @@
-# Use Cases\n\nExploration of use cases.
+# Use Cases
+
+Exploration of use cases.
