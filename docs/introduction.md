@@ -1,1 +1,3 @@
-# Introduction\n\nThis document introduces the project.
+# Introduction
+
+This document introduces the project.
