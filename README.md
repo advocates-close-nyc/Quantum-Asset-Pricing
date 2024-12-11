@@ -22,6 +22,3 @@ Quantum computing offers exponential or quadratic speedups, enabling real-time i
 1. Clone the repository:
    ```bash
    git clone https://github.com/advocates-close-nyc/Quantum-Asset-Pricing.git
-
-
-
