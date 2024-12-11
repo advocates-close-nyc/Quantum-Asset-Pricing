@@ -1,1 +1,3 @@
-# Results\n\nKey results and findings.
+# Results
+
+Key results and findings.
