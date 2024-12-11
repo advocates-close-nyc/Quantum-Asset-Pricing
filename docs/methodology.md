@@ -1,1 +1,3 @@
-# Methodology\n\nDetails about the methodology used.
+# Methodology
+
+Details about the methodology used.
