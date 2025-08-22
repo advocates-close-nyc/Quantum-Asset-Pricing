@@ -1,13 +1,7 @@
 # Quantum Asset Pricing
 
 ## Overview
-Attention is to quantum computation and certain applications thereof. These applications are discussed in the materials provided under separate cover; an abbreviated "proof of life" presentation follows.
-
-## Introduction
-
-## Use Cases
-- **Arbitrage:** CHSH.
-- **Also:** Arbitrage.  
+An arbitrage strategy is presented. The strategy makes use of quantum entanglement. This is attorney advertising.
 
 ## Getting Started
 1. Clone the repository:
