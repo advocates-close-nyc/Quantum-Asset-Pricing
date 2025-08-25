@@ -1,7 +1,9 @@
 # Quantum Asset Pricing
 
 ## Overview
-An arbitrage strategy is presented. The strategy makes use of quantum entanglement. This is attorney advertising.
+An arbitrage strategy is presented. The strategy makes use of quantum entanglement. 
+
+ATTORNEY ADVERTISING.
 
 ## Getting Started
 1. Clone the repository:
